@@ -2,12 +2,12 @@
   "categories": [
     {
       "name": "aesthetic-girly-wallpapers 1",
-      "preview": "https://avatars.mds.yandex.net/i?id=0366c8306c46636ad722e5fff2816ff8f1f12ed2-12528722-images-thumbs&n=13",
+      "preview": "https://i.pinimg.com/originals/54/69/08/546908fbd9828bf890585db4c2500e71.jpg",
       "wallpapers": [
         {
           "id": 0,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=f8af01754d0f4702e0ff1a7b97c2cf9b32e3cb2a-10499278-images-thumbs&n=13"
+          "path": "https://ae01.alicdn.com/kf/HTB1QnDUXyrxK1RkHFCcq6AQCVXaw/Laeacco-Photo-Backdrops-Christmas-Tree-Gift-Candle-Sofa-Sock-Wreath-Interior-Photographic-Backgrounds-Photocall-Photo-Studio.jpg"
         },
         {
           "id": 1,
@@ -17,124 +17,124 @@
         {
           "id": 2,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=31bc473143b5dfa4adbf0282386ed48bd475c81a-12484740-images-thumbs&n=13"
+          "path": "https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/0d1779550fd067d21848fefb91084317"
         },
         {
           "id": 3,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=9b9052e20461512afecf006871a2c81cd316905b-12910854-images-thumbs&n=13"
+          "path": "https://puzzleit.ru/files/puzzles/178/178168/_original.jpg"
         },
         {
           "id": 4,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=252a1073d9d55644ae00e16a0ecc00469727d13d-12799632-images-thumbs&n=13"
+          "path": "https://101siding.ru/EXPORT/%D0%A1%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%93%D0%BE%D0%B4%D0%BE%D0%BC.jpg"
         },
         {
           "id": 5,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=7d0bf74f190445bc826929d7af542f880bb0ec68-12475602-images-thumbs&n=13"
+          "path": "https://i.pinimg.com/originals/92/ca/ee/92caee1b2966173e9cce86db7e26a338.jpg"
         },
         {
           "id": 6,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=4188161dc75d704c95ebafdfd0c4b16d07fbd9f8-10354750-images-thumbs&n=13"
+          "path": "https://i.pinimg.com/originals/88/fc/58/88fc5899d9989d400f859916246b8b39.jpg"
         },
         {
           "id": 7,
           "category": "aesthetic-girly-wallpapers 1",
-          "path": "https://avatars.mds.yandex.net/i?id=91d5b7a94958a985cf1363ae87a7f5b1deac861d-12932370-images-thumbs&n=13"
+          "path": "https://komiinform.ru/content/news/images/131157/9oboev.ru-34557.jpg"
         }
       ]
     },
     {
       "name": "aesthetic-girly-wallpapers 2",
-      "preview": "https://avatars.mds.yandex.net/i?id=fe8af944a49b77ae4bb0f58ee67f08841de55e96-12481907-images-thumbs&n=13",
+      "preview": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/adf7709f-e5cc-43d6-a383-30806271468c/dfl247s-135b21c6-af8e-4b22-b20a-a8616d4830ad.jpg/v1/fill/w_1192,h_670,q_70,strp/homemade_christmas_gifts_by_bigdaddy4040_dfl247s-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FkZjc3MDlmLWU1Y2MtNDNkNi1hMzgzLTMwODA2MjcxNDY4Y1wvZGZsMjQ3cy0xMzViMjFjNi1hZjhlLTRiMjItYjIwYS1hODYxNmQ0ODMwYWQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KgouUNUq0Wqks-4aF6GgRfnAg0kGI7JA7wAeOghVksE",
       "wallpapers": [
         {
           "id": 0,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=eaa49f6f96c3a142ae2c1e5d08c3156f273ea783-4507914-images-thumbs&n=13"
+          "path": "https://a.d-cd.net/9c4db35s-1920.jpg"
         },
         {
           "id": 1,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=1819db9d54c4fb2ceda64275e00480646285f210-10844270-images-thumbs&n=13"
+          "path": "https://www.carangel.com/photos/nloimages/iimages/noel_boules_guirlandes.jpg"
         },
         {
           "id": 2,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=0442a51d198199093d01d87c3b635231c7b88eb5-12626686-images-thumbs&n=13"
+          "path": "https://www.fonstola.ru/images/201502/fonstola.ru_162040.jpg"
         },
         {
           "id": 3,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=9e596d9edb9e5ba1bb3a5346736cf43bdab37575-11548596-images-thumbs&n=13"
+          "path": "https://porogy.zp.ua/wp-content/uploads/2016/12/New_Year_wallpapers_Christmas_tree_in_the_Crocus_City_050936_.jpg"
         },
         {
           "id": 4,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=f580e2bd0f212526620fb3b8fc66adaf4ed67ad1-10332876-images-thumbs&n=13"
+          "path": "https://i.pinimg.com/originals/af/5e/ec/af5eec6d96dc22d95d71bd67439b72b3.jpg"
         },
         {
           "id": 5,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=e2bf346555d1fc34b6fd1af76867603d39a42298-10521836-images-thumbs&n=13"
+          "path": "https://townsquare.media/site/394/files/2015/11/RS2016_86517640.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
         },
         {
           "id": 6,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=f5397d9071bc3196135064f7bb2cefd4ad42778d-12643871-images-thumbs&n=13"
+          "path": "https://i.pinimg.com/originals/ca/6c/53/ca6c53d3d5715a80995e8c023af46de1.jpg"
         },
         {
           "id": 7,
           "category": "aesthetic-girly-wallpapers 2",
-          "path": "https://avatars.mds.yandex.net/i?id=39aa367d22801e7fe38c7ebb2a224f57f41c8731-10558413-images-thumbs&n=13"
+          "path": "https://cdn1.ozone.ru/multimedia/1025561038.jpg"
         }
       ]
     },
     {
       "name": "aesthetic-girly-wallpapers 3",
-      "preview": "https://avatars.mds.yandex.net/i?id=53f7559cbe3f7105277ef46e38bc55a186383cfc-9106864-images-thumbs&n=13",
+      "preview": "https://i.ytimg.com/vi/KGsgrCJsk5w/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDggUihyMA8=&amp;rs=AOn4CLD6GKPkHRDMdk5DB9jWS1hpka7EFA",
       "wallpapers": [
         {
           "id": 0,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=53f7559cbe3f7105277ef46e38bc55a186383cfc-9106864-images-thumbs&n=13"
+          "path": "https://sun9-8.userapi.com/impg/TiEbcls-asrZz7uAhQa6b9vE9SBc3IBCtaHPAg/PgKOdL5aAP0.jpg?size=1280x853&quality=96&sign=9036b7c4530d5f810d96e5727f96fbb6&c_uniq_tag=ECe8DUwrZG4EdCuJTgKSa5OYUzpejDaH99qTGbGWjtY&type=album"
         },
         {
           "id": 1,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=0e5f0eb3b9e337c7bb074de63111aa58211d8e2f-10025687-images-thumbs&n=13"
+          "path": "https://steamuserimages-a.akamaihd.net/ugc/915785409231718864/5D97918E66706B14383D3010E427405C725CC998/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
         },
         {
           "id": 2,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=a52e99c00ed1c9354c1f30680f5244a620a8e3db-5337839-images-thumbs&n=13"
+          "path": "https://image.winudf.com/v2/image1/Y29tLmVkZ2V3YXlzb2Z0LnNub3d5YW1iaWVuY2Vfc2NyZWVuXzRfMTY1ODgzMzgwMV8wOTI/screen-4.jpg?fakeurl=1&type=.jpg"
         },
         {
           "id": 3,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=225c129f66c3f5119bd36a9a8c46f74e7ec50ec7-7132164-images-thumbs&n=13"
+          "path": "https://www.fontecesia.it/wp-content/uploads/2018/12/befana-todi.jpg"
         },
         {
           "id": 4,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=87d937e7593c01df4d0ed1fb63bf360b24800188-10697630-images-thumbs&n=13"
+          "path": "https://i.mycdn.me/i?r=BDGmhjfL9BzD6NIU04xipmtvSFQdblxL9s2uPieGpM91UWSt0aFllSwq-tvFLGmDWrk"
         },
         {
           "id": 5,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=eaa49f6f96c3a142ae2c1e5d08c3156f273ea783-4507914-images-thumbs&n=13"
+          "path": "https://ae01.alicdn.com/kf/HTB1L5WoXInrK1RjSspkxh5uvXXae/Laeacco-Christmas-Wooden-Board-Snow-Light-Bokeh-Baby-Photography-Background-Customized-Photographic-Backdrops-For-Photo-Studio.jpeg"
         },
         {
           "id": 6,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=e8ff1a8bd88a051ad56e44407370cbde9c33e220-5244939-images-thumbs&n=13"
+          "path": "https://shop.kosmetikpro.ru/media/redactor/rozhdiestvienskii-podarok-oboi-1440x960-2675_37.jpg"
         },
         {
           "id": 7,
           "category": "aesthetic-girly-wallpapers 3",
-          "path": "https://avatars.mds.yandex.net/i?id=efd7cb5581e84b292033c401e1e10934ab88586f-9727996-images-thumbs&n=13"
+          "path": "https://spb.hse.ru/data/2016/12/09/1111983269/noel.jpg"
         }
       ]
     }
