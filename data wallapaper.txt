@@ -1,139 +1,139 @@
 {
   "categories": [
     {
-      "name": "aesthetic-girly-wallpapers 1",
+      "name": "Christmas Tree Live Wallpaper",
       "preview": "https://i.pinimg.com/originals/54/69/08/546908fbd9828bf890585db4c2500e71.jpg",
       "wallpapers": [
         {
           "id": 0,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://ae01.alicdn.com/kf/HTB1QnDUXyrxK1RkHFCcq6AQCVXaw/Laeacco-Photo-Backdrops-Christmas-Tree-Gift-Candle-Sofa-Sock-Wreath-Interior-Photographic-Backgrounds-Photocall-Photo-Studio.jpg"
         },
         {
           "id": 1,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://avatars.mds.yandex.net/i?id=e536a8c43e56bceb7825fabf771d49f632dec573-12610597-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "aChristmas Tree Live Wallpaper",
           "path": "https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/0d1779550fd067d21848fefb91084317"
         },
         {
           "id": 3,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://puzzleit.ru/files/puzzles/178/178168/_original.jpg"
         },
         {
           "id": 4,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://101siding.ru/EXPORT/%D0%A1%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%93%D0%BE%D0%B4%D0%BE%D0%BC.jpg"
         },
         {
           "id": 5,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://i.pinimg.com/originals/92/ca/ee/92caee1b2966173e9cce86db7e26a338.jpg"
         },
         {
           "id": 6,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://i.pinimg.com/originals/88/fc/58/88fc5899d9989d400f859916246b8b39.jpg"
         },
         {
           "id": 7,
-          "category": "aesthetic-girly-wallpapers 1",
+          "category": "Christmas Tree Live Wallpaper",
           "path": "https://komiinform.ru/content/news/images/131157/9oboev.ru-34557.jpg"
         }
       ]
     },
     {
-      "name": "aesthetic-girly-wallpapers 2",
+      "name": "Christmas Wallpaper HD 4K",
       "preview": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/adf7709f-e5cc-43d6-a383-30806271468c/dfl247s-135b21c6-af8e-4b22-b20a-a8616d4830ad.jpg/v1/fill/w_1192,h_670,q_70,strp/homemade_christmas_gifts_by_bigdaddy4040_dfl247s-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FkZjc3MDlmLWU1Y2MtNDNkNi1hMzgzLTMwODA2MjcxNDY4Y1wvZGZsMjQ3cy0xMzViMjFjNi1hZjhlLTRiMjItYjIwYS1hODYxNmQ0ODMwYWQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KgouUNUq0Wqks-4aF6GgRfnAg0kGI7JA7wAeOghVksE",
       "wallpapers": [
         {
           "id": 0,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://a.d-cd.net/9c4db35s-1920.jpg"
         },
         {
           "id": 1,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://www.carangel.com/photos/nloimages/iimages/noel_boules_guirlandes.jpg"
         },
         {
           "id": 2,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://www.fonstola.ru/images/201502/fonstola.ru_162040.jpg"
         },
         {
           "id": 3,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://porogy.zp.ua/wp-content/uploads/2016/12/New_Year_wallpapers_Christmas_tree_in_the_Crocus_City_050936_.jpg"
         },
         {
           "id": 4,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://i.pinimg.com/originals/af/5e/ec/af5eec6d96dc22d95d71bd67439b72b3.jpg"
         },
         {
           "id": 5,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://townsquare.media/site/394/files/2015/11/RS2016_86517640.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
         },
         {
           "id": 6,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://i.pinimg.com/originals/ca/6c/53/ca6c53d3d5715a80995e8c023af46de1.jpg"
         },
         {
           "id": 7,
-          "category": "aesthetic-girly-wallpapers 2",
+          "category": "Christmas Wallpaper HD 4K",
           "path": "https://cdn1.ozone.ru/multimedia/1025561038.jpg"
         }
       ]
     },
     {
-      "name": "aesthetic-girly-wallpapers 3",
+      "name": "Christmas Snowfall",
       "preview": "https://i.ytimg.com/vi/KGsgrCJsk5w/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDggUihyMA8=&amp;rs=AOn4CLD6GKPkHRDMdk5DB9jWS1hpka7EFA",
       "wallpapers": [
         {
           "id": 0,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://sun9-8.userapi.com/impg/TiEbcls-asrZz7uAhQa6b9vE9SBc3IBCtaHPAg/PgKOdL5aAP0.jpg?size=1280x853&quality=96&sign=9036b7c4530d5f810d96e5727f96fbb6&c_uniq_tag=ECe8DUwrZG4EdCuJTgKSa5OYUzpejDaH99qTGbGWjtY&type=album"
         },
         {
           "id": 1,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://steamuserimages-a.akamaihd.net/ugc/915785409231718864/5D97918E66706B14383D3010E427405C725CC998/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
         },
         {
           "id": 2,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://image.winudf.com/v2/image1/Y29tLmVkZ2V3YXlzb2Z0LnNub3d5YW1iaWVuY2Vfc2NyZWVuXzRfMTY1ODgzMzgwMV8wOTI/screen-4.jpg?fakeurl=1&type=.jpg"
         },
         {
           "id": 3,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://www.fontecesia.it/wp-content/uploads/2018/12/befana-todi.jpg"
         },
         {
           "id": 4,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://i.mycdn.me/i?r=BDGmhjfL9BzD6NIU04xipmtvSFQdblxL9s2uPieGpM91UWSt0aFllSwq-tvFLGmDWrk"
         },
         {
           "id": 5,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://ae01.alicdn.com/kf/HTB1L5WoXInrK1RjSspkxh5uvXXae/Laeacco-Christmas-Wooden-Board-Snow-Light-Bokeh-Baby-Photography-Background-Customized-Photographic-Backdrops-For-Photo-Studio.jpeg"
         },
         {
           "id": 6,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://shop.kosmetikpro.ru/media/redactor/rozhdiestvienskii-podarok-oboi-1440x960-2675_37.jpg"
         },
         {
           "id": 7,
-          "category": "aesthetic-girly-wallpapers 3",
+          "category": "Christmas Snowfall",
           "path": "https://spb.hse.ru/data/2016/12/09/1111983269/noel.jpg"
         }
       ]
